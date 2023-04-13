@@ -150,7 +150,6 @@ img {
     transform: scale(1.4);
     z-index: 2;
     border: 0.1px ridge #F16D7F;
-
     filter: drop-shadow(2px 2px 8px #43231499);
     padding: 0px;
     transition: all 0.8s ease-out;
@@ -178,7 +177,7 @@ img {
 
 /* !!!!!!!!!!!!!!!!! */
 .content-offer__item_big:hover {
-    transform: scale(1.2);
+    transform: scale(1.13);
   
 }
 
